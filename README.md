@@ -1,6 +1,6 @@
 # Investigating-the-Impact-of-Similarity-Invariance-Constraints-on-MLP-Based-GPT-Shape-Recognition
 
-This repository contains all code and data for Lina Wäsch’s master’s thesis at ETH Zürich, where we train a physics-informed MLP to recover rotation, scale and translation invariants from first-order Generalized Polarization Tensors (GPTs).
+This repository contains all code and data for Lina Wäsch’s Semester Thesis at ETH Zürich, where we train a physics-informed MLP to recover rotation, scale and translation invariants from first-order Generalized Polarization Tensors (GPTs).
 
 ## Repo structure
 
